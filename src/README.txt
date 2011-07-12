@@ -1,0 +1,1 @@
+If we edit soemthing this is what we say and explain to each other or future updates for it :) 
