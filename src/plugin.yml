@@ -1,0 +1,12 @@
+name: Unlimited
+main: me.badbh222.Unlimited.Unlimited
+version: 0.1
+author: badbh222 & ashour
+commands:
+  unlimited:
+    description: Unlimited blocks
+    usage: |
+           /unlimited enable
+           /unlimited disable
+           /unlimited reload
+           /unlimited help
